@@ -5,7 +5,7 @@
 ![Documentation](https://img.shields.io/badge/Documentation-Complete-brightgreen)
 
 <p align="center">
-  <img src="Assets/ResumeFetch_Cover.png.png" alt="ResumeFetch Cover" width="100%">
+  <img src="Assets/ResumeFetch_Cover.png" alt="ResumeFetch Cover" width="100%">
 </p>
 
 ## Overview
